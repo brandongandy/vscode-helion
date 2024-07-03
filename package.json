@@ -1,10 +1,16 @@
 {
   "name": "helion",
   "displayName": "Helion",
-  "description": "A low-contrast dark theme.",
+  "description": "A low-contrast dark theme, inspired by lost colors and Solarized.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.90.0"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/brandongandy/vscode-helion",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brandongandy/vscode-helion"
   },
   "categories": [
     "Themes"
