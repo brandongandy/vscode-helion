@@ -853,14 +853,16 @@
       "name": "Classes",
       "scope": "entity.name.type.namespace",
       "settings": {
-        "foreground": "#acbac4"
+        "foreground": "#acbac4",
+        "fontStyle": "bold"
       }
     },
     {
       "name": "Classes",
       "scope": "support.class, entity.name.type.class",
       "settings": {
-        "foreground": "#acbac4"
+        "foreground": "#acbac4",
+        "fontStyle": "bold"
       }
     },
     {
@@ -1039,7 +1041,6 @@
       "name": "Attribute IDs",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "fontStyle": "normal",
         "foreground": "#40abe5"
       }
     },
@@ -1047,7 +1048,7 @@
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "italic",
         "foreground": "#ca633a"
       }
     },
