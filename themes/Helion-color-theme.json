@@ -1078,7 +1078,7 @@
 			"settings": {
 				"foreground": "#acbac4"
 			}
-		}
+		},
 		{
 			"name": "Attribute IDs",
 			"scope": "entity.other.attribute-name.id",
