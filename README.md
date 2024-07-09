@@ -8,7 +8,7 @@ I make no claim regarding this color scheme's scientific superiority. No tests h
 
 ![](img/helion-palette.png)
 
-Presently, Helion consists of 16 **primary** colors, with 8 light variants used for emphasis.
+Presently, Helion consists of 16 primary colors, with 8 base colors and 8 accents.
 
 Helion is available in several forms:
 - A Visual Studio Code Theme (this repo's primary purpose)

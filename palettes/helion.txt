@@ -1,4 +1,4 @@
-﻿; Paint.NET Palette File
+﻿; paint.net Palette File
 ; Lines that start with a semicolon are comments
 ; Colors are written as 8-digit hexadecimal numbers: aarrggbb
 ; For example, this would specify green: FF00FF00
@@ -13,19 +13,11 @@ FF3E6A89
 FFACBAC4
 FFE4E6DB
 FFF2F3EE
-FFE49B0F
-FFEAB925
-FFCA633A
-FFE87A43
-FFBB2740
-FFD82D4C
-FF9224AD
-FFBF4CC9
-FF863CFF
-FF976BEF
-FF0060A1
+FFCE8900
+FFE06E41
+FFF6606D
+FFD76AF1
+FFB163FF
 FF40ABE5
 FF3FA89D
-FF5BD8C7
-FF478800
-FF7FC92A
+FF68A82C
