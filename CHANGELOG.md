@@ -2,6 +2,23 @@
 
 All notable changes to the "helion" extension will be documented in this file.
 
+## [0.0.4]
+
+### Changed
+
+- Updated colors in quick input bar
+- Adjusted colors on editor hover widget
+- Adjusted colors on input boxes
+- Lowered brightness on button default colors
+- Changed color of badges from Chartres Blue to Scheele's Green
+
+### Fixed
+
+- The highlight color now appears correctly when highlighting text within strings and substrings
+- Fixed strong highlight background in editor
+- Fixed contrast and colors in Command Center box
+- Fixed alignment on palette preview image
+
 ## [0.0.3]
 
 ### Added

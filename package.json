@@ -3,7 +3,7 @@
   "name": "helion",
   "displayName": "Helion",
   "description": "A low-contrast dark theme, inspired by lost colors and Solarized.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.90.0"
   },
