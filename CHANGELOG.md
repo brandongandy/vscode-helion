@@ -2,6 +2,25 @@
 
 All notable changes to the "helion" extension will be documented in this file.
 
+## [0.0.5]
+
+### Added
+
+- Invalid, deprecated, and illegal characters / functions are now colored
+
+### Changed
+
+- Updated title bar inactive color
+- Changed button hover backgrounds to be brighter instead of darker
+- Changed keyword control to Scheele's Green
+- Changed language constant color from Realgar to Gamboge Yellow
+- Updated some instances of pure white to use French Grey instead
+- Updated CSS syntax highlighting to use fewer colors
+- Changed some instances of Fuchsine to Royal Purple for better contrast
+- Changed some instances of Realgar to Gamboge Yellow
+- Change other syntax highlighting for better contrast
+- Updated theme preview screenshot
+
 ## [0.0.4]
 
 ### Changed

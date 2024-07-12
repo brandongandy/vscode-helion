@@ -43,7 +43,7 @@
     "statusBarItem.remoteForeground": "#f2f3ee",
     "titleBar.activeBackground": "#132634",
     "titleBar.activeForeground": "#acbac4",
-    "titleBar.inactiveBackground": "#40ABE540",
+    "titleBar.inactiveBackground": "#172f3f",
     "titleBar.inactiveForeground": "#e4e6db99",
     "titleBar.border": "#40ABE533",
     "menubar.selectionForeground": "#001220",
@@ -57,10 +57,10 @@
     "menu.border": "#00122085",
     "button.background": "#40ABE5ee",
     "button.foreground": "#132634",
-    "button.hoverBackground": "#40ABE5cc",
+    "button.hoverBackground": "#40ABE5",
     "button.secondaryForeground": "#132634",
     "button.secondaryBackground": "#68A82Cee",
-    "button.secondaryHoverBackground": "#68A82Ccc",
+    "button.secondaryHoverBackground": "#68A82C",
     "input.background": "#172f3f",
     "input.border": "#40ABE533",
     "input.foreground": "#acbac4",
@@ -453,7 +453,7 @@
       "name": "math property js/ts",
       "scope": "support.constant.property.math",
       "settings": {
-        "foreground": "#E06E41"
+        "foreground": "#CE8900"
       }
     },
     {
@@ -540,7 +540,7 @@
       "name": "support.constant.property-value.scss",
       "scope": "support.constant.property-value.scss,support.constant.property-value.css",
       "settings": {
-        "foreground": "#E06E41"
+        "foreground": "#3FA89D"
       }
     },
     {
@@ -554,7 +554,7 @@
       "name": "css color standard name",
       "scope": "support.constant.color.w3c-standard-color-name.css,support.constant.color.w3c-standard-color-name.scss",
       "settings": {
-        "foreground": "#E06E41"
+        "foreground": "#CE8900"
       }
     },
     {
@@ -568,7 +568,7 @@
       "name": "css attribute-name.id",
       "scope": "support.constant.color.w3c-standard-color-name.css",
       "settings": {
-        "foreground": "#E06E41"
+        "foreground": "#CE8900"
       }
     },
     {
@@ -596,14 +596,14 @@
       "name": "js variable readwrite",
       "scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
       "settings": {
-        "foreground": "#D662E0"
+        "foreground": "#B163FF"
       }
     },
     {
       "name": "js/ts json",
       "scope": "support.constant.json",
       "settings": {
-        "foreground": "#E06E41"
+        "foreground": "#CE8900"
       }
     },
     {
@@ -672,7 +672,7 @@
       "name": "js dom variable",
       "scope": "support.variable.dom,support.variable.property.dom",
       "settings": {
-        "foreground": "#d76af1"
+        "foreground": "#B163FF"
       }
     },
     {
@@ -763,7 +763,7 @@
       "name": "python placeholder reset to normal string",
       "scope": "constant.character.format.placeholder.other.python",
       "settings": {
-        "foreground": "#E06E41"
+        "foreground": "#CE8900"
       }
     },
     {
@@ -805,7 +805,7 @@
       "name": "Variables",
       "scope": "variable",
       "settings": {
-        "foreground": "#d76af1"
+        "foreground": "#B163FF"
       }
     },
     {
@@ -914,7 +914,7 @@
       "name": "Keyword Control",
       "scope": "keyword.control",
       "settings": {
-        "foreground": "#40abe5"
+        "foreground": "#68A82C"
       }
     },
     {
@@ -984,7 +984,7 @@
       "name": "Support type",
       "scope": "support.constant.font-name",
       "settings": {
-        "foreground": "#E06E41"
+        "foreground": "#CE8900"
       }
     },
     {
@@ -1019,21 +1019,21 @@
       "name": "Integers",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#E06E41"
+        "foreground": "#CE8900"
       }
     },
     {
       "name": "Constants",
       "scope": "constant",
       "settings": {
-        "foreground": "#E06E41"
+        "foreground": "#CE8900"
       }
     },
     {
       "name": "Constants",
       "scope": "punctuation.definition.constant",
       "settings": {
-        "foreground": "#E06E41"
+        "foreground": "#CE8900"
       }
     },
     {
@@ -1047,7 +1047,7 @@
       "name": "Attributes",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#E06E41"
+        "foreground": "#CE8900"
       }
     },
     {
@@ -1062,7 +1062,7 @@
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#E06E41"
+        "foreground": "#CE8900"
       }
     },
     {
@@ -1090,7 +1090,7 @@
       "name": "Units",
       "scope": "keyword.other.unit",
       "settings": {
-        "foreground": "#d76af1"
+        "foreground": "#B163FF"
       }
     },
     {
@@ -1250,7 +1250,7 @@
       "name": "illegal",
       "scope": "invalid.illegal",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#F6606D"
       }
     },
     {
@@ -1264,21 +1264,21 @@
       "name": "Broken",
       "scope": "invalid.broken",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#F6606D"
       }
     },
     {
       "name": "Deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#E06E41"
       }
     },
     {
       "name": "Unimplemented",
       "scope": "invalid.unimplemented",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#F6606D"
       }
     },
     {
@@ -1313,14 +1313,14 @@
       "name": "[VSCODE-CUSTOM] JSON Property Name",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#d76af1"
+        "foreground": "#B163FF"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] JSON Punctuation for Property Name",
       "scope": "support.type.property-name.json punctuation",
       "settings": {
-        "foreground": "#d76af1"
+        "foreground": "#B163FF"
       }
     },
     {
@@ -1404,14 +1404,14 @@
       "name": "support php constants",
       "scope": "support.constant.core.rust",
       "settings": {
-        "foreground": "#E06E41"
+        "foreground": "#CE8900"
       }
     },
     {
       "name": "support php constants",
       "scope": "support.constant.ext.php,support.constant.std.php,support.constant.core.php,support.constant.parser-token.php",
       "settings": {
-        "foreground": "#E06E41"
+        "foreground": "#CE8900"
       }
     },
     {
@@ -1544,7 +1544,7 @@
       "name": "cs local variable",
       "scope": "entity.name.variable.local.cs",
       "settings": {
-        "foreground": "#d76af1"
+        "foreground": "#B163FF"
       }
     },
     {
@@ -1724,7 +1724,7 @@
         "support.constant.elm"
       ],
       "settings": {
-        "foreground": "#E06E41"
+        "foreground": "#CE8900"
       }
     },
     {
@@ -1885,7 +1885,7 @@
         "text.bracketed"
       ],
       "settings": {
-        "foreground": "#d76af1"
+        "foreground": "#B163FF"
       }
     },
     {
@@ -2003,7 +2003,7 @@
         "constant.other.color.rgb-value.xi"
       ],
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#acbac4"
       }
     },
     {
@@ -2113,9 +2113,16 @@
     },
     {
       "name": "Other CSS Attributes",
-      "scope": "variable.scss,entity.other.attribute-name.pseudo-class.css,punctuation.definition.constant.css,keyword.other.unit.em.css,keyword.other.unit.rem.css,keyword.other.unit.s.css,keyword.other.unit.px.css,keyword.other.unit.em.css",
+      "scope": "variable.scss,entity.other.attribute-name.pseudo-class.css,punctuation.definition.constant.css,keyword.other.unit.em.css,keyword.other.unit.rem.css,keyword.other.unit.s.css,keyword.other.unit.px.css,keyword.other.unit.em.css,keyword.other.unit.deg.css,keyword.other.unit.percentage.css",
       "settings": {
-        "foreground": "#d76af1"
+        "foreground": "#3FA89D"
+      }
+    },
+    {
+      "name": "CSS Important",
+      "scope": "keyword.other.important.css",
+      "settings": {
+        "foreground": "#F6606D"
       }
     },
     {
@@ -2129,8 +2136,7 @@
       "name": "css support property name",
       "scope": "support.type.property-name.css,support.type.property-name.scss",
       "settings": {
-        "foreground": "#3fa89d",
-        "fontStyle": "bold"
+        "foreground": "#acbac4"
       }
     },
     {
@@ -2151,8 +2157,7 @@
       "name": "CSS Names",
       "scope": "entity.name.tag.css",
       "settings": {
-        "foreground": "#d76af1",
-        "fontStyle": "bold"
+        "foreground": "#acbac4"
       }
     },
     {
