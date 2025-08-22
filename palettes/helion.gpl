@@ -2,14 +2,14 @@ GIMP Palette
 Name: 
 Columns: 8
 #
-0   18  32  Ivory Black
-19  38  52  Dark Gunmetal
-23  47  63  Gunmetal
-44  76  99  Charcoal
-62  106 137 Payne's Grey
-172 186 196 French Grey
-228 230 219 Alabaster
-242 243 238 Lead White
+26  42  56  Ivory Black
+38  56  73  Dark Gunmetal
+45  67  84  Gunmetal
+64  87  107  Charcoal
+78  122 152 Payne's Grey
+168 182 192 French Grey
+216 218 211 Alabaster
+228 230 224 Lead White
 206 137 0   Gamboge Yellow
 224 110 65  Realgar
 246 96  109 Vermilion

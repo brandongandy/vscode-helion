@@ -2,6 +2,19 @@
 
 All notable changes to the "helion" extension will be documented in this file.
 
+## [1.0]
+
+### Added
+
+- Added active/inactive border colors.
+
+### Changed
+
+- Ivory Black, Dark Gunmetal, Gunmetal, Charcoal, Payne's Grey, French Grey, Alabaster, and Lead White have been adjusted for better contrast against each other and the accent colors.
+- Adjusted base colors for various UI elements to use Ivory Black instead of Dark Gunmetal or Gunmetal.
+- Adjusted scrollbar color to use less transparency for better visibility.
+
+
 ## [0.0.5]
 
 ### Added
