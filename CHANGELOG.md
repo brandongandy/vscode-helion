@@ -2,7 +2,14 @@
 
 All notable changes to the "helion" extension will be documented in this file.
 
-## [1.0]
+## [1.0.1]
+
+### Fixed
+
+- Replaced SVG with PNG for VSCE compatibility.
+- Fixed semver tag.
+
+## [1.0.0]
 
 ### Added
 
