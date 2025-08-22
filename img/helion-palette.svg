@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960 560" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="14">
+  <title>Palette Swatches</title>
+  
+  <!-- layout constants -->
+  <!-- swatch size 220x120; gap 16; margin 16; 4 columns x 4 rows -->
+  
+  <!-- row 1 -->
+  <g transform="translate(16,16)">
+    <rect width="220" height="120" fill="#1A2A38" rx="12"/>
+    <text x="12" y="94" fill="#E4E6E0">Ivory Black</text>
+    <text x="12" y="112" fill="#E4E6E0">#1A2A38</text>
+  </g>
+  <g transform="translate(252,16)">
+    <rect width="220" height="120" fill="#263849" rx="12"/>
+    <text x="12" y="94" fill="#E4E6E0">Dark Gunmetal</text>
+    <text x="12" y="112" fill="#E4E6E0">#263849</text>
+  </g>
+  <g transform="translate(488,16)">
+    <rect width="220" height="120" fill="#2D4354" rx="12"/>
+    <text x="12" y="94" fill="#E4E6E0">Gunmetal</text>
+    <text x="12" y="112" fill="#E4E6E0">#2D4354</text>
+  </g>
+  <g transform="translate(724,16)">
+    <rect width="220" height="120" fill="#40576B" rx="12"/>
+    <text x="12" y="94" fill="#E4E6E0">Charcoal</text>
+    <text x="12" y="112" fill="#E4E6E0">#40576B</text>
+  </g>
+  
+  <!-- row 2 -->
+  <g transform="translate(16,152)">
+    <rect width="220" height="120" fill="#4E7A98" rx="12"/>
+    <text x="12" y="94" fill="#E4E6E0">Payne's Grey</text>
+    <text x="12" y="112" fill="#E4E6E0">#4E7A98</text>
+  </g>
+  <g transform="translate(252,152)">
+    <rect width="220" height="120" fill="#A8B6C0" rx="12"/>
+    <text x="12" y="94" fill="#1A2A38">French Grey</text>
+    <text x="12" y="112" fill="#1A2A38">#A8B6C0</text>
+  </g>
+  <g transform="translate(488,152)">
+    <rect width="220" height="120" fill="#D8DAD3" rx="12"/>
+    <text x="12" y="94" fill="#1A2A38">Alabaster</text>
+    <text x="12" y="112" fill="#1A2A38">#D8DAD3</text>
+  </g>
+  <g transform="translate(724,152)">
+    <rect width="220" height="120" fill="#E4E6E0" rx="12"/>
+    <text x="12" y="94" fill="#1A2A38">Lead White</text>
+    <text x="12" y="112" fill="#1A2A38">#E4E6E0</text>
+  </g>
+  
+  <!-- row 3 -->
+  <g transform="translate(16,288)">
+    <rect width="220" height="120" fill="#CE8900" rx="12"/>
+    <text x="12" y="94" fill="#1A2A38">Gamboge Yellow</text>
+    <text x="12" y="112" fill="#1A2A38">#CE8900</text>
+  </g>
+  <g transform="translate(252,288)">
+    <rect width="220" height="120" fill="#E06E41" rx="12"/>
+    <text x="12" y="94" fill="#1A2A38">Realgar</text>
+    <text x="12" y="112" fill="#1A2A38">#E06E41</text>
+  </g>
+  <g transform="translate(488,288)">
+    <rect width="220" height="120" fill="#F6606D" rx="12"/>
+    <text x="12" y="94" fill="#1A2A38">Vermilion</text>
+    <text x="12" y="112" fill="#1A2A38">#F6606D</text>
+  </g>
+  <g transform="translate(724,288)">
+    <rect width="220" height="120" fill="#D76AF1" rx="12"/>
+    <text x="12" y="94" fill="#1A2A38">Fuchsine</text>
+    <text x="12" y="112" fill="#1A2A38">#D76AF1</text>
+  </g>
+  
+  <!-- row 4 -->
+  <g transform="translate(16,424)">
+    <rect width="220" height="120" fill="#B163FF" rx="12"/>
+    <text x="12" y="94" fill="#1A2A38">Tyrian Purple</text>
+    <text x="12" y="112" fill="#1A2A38">#B163FF</text>
+  </g>
+  <g transform="translate(252,424)">
+    <rect width="220" height="120" fill="#40ABE5" rx="12"/>
+    <text x="12" y="94" fill="#1A2A38">Chartres Blue</text>
+    <text x="12" y="112" fill="#1A2A38">#40ABE5</text>
+  </g>
+  <g transform="translate(488,424)">
+    <rect width="220" height="120" fill="#3FA89D" rx="12"/>
+    <text x="12" y="94" fill="#1A2A38">Verdigris</text>
+    <text x="12" y="112" fill="#1A2A38">#3FA89D</text>
+  </g>
+  <g transform="translate(724,424)">
+    <rect width="220" height="120" fill="#68A82C" rx="12"/>
+    <text x="12" y="94" fill="#1A2A38">Scheele's Green</text>
+    <text x="12" y="112" fill="#1A2A38">#68A82C</text>
+  </g>
+</svg>
