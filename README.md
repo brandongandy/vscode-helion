@@ -4,7 +4,7 @@ Helion is a WCAG-compliant mid-contrast color palette inspired by [Solarized](ht
 
 ## Palette
 
-![](img/helion-palette.svg)
+![](img/helion-palette.png)
 
 Helion consists of 16 primary colors, with 8 base colors and 8 accents.
 
